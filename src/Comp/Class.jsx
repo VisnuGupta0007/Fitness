@@ -20,7 +20,8 @@ const center = {
     lng: -122.4194,
 };
 
-function About() {
+function Class() {
+
 
     // For Nav buttons
     const [activeLink, setActiveLink] = useState("HOME");
@@ -307,7 +308,7 @@ function About() {
                             "New Gym Training guides beginners with effective workouts, proper form, and tips to build strength."
                         </p>
                         <button className="text-orange-600 font-semibold mt-2 hover:underline">
-                           <a href="/"> Discover More</a>
+                          <a href="/"> Discover More</a>
                         </button>
                     </div>
                 </div>
@@ -325,7 +326,7 @@ function About() {
                             "Yoga Training improves flexibility, balance, and mental clarity through poses, breath control, and relaxation."
                         </p>
                         <button className="text-orange-600 font-semibold mt-2 hover:underline">
-                          <a href="/"> Discover More</a>
+                           <a href="/"> Discover More</a>
                         </button>
                     </div>
                 </div>
@@ -343,7 +344,7 @@ function About() {
                             "Build strength and tone with beginner-friendly workouts and easy muscle-building tips."
                         </p>
                         <button className="text-orange-600 font-semibold mt-2 hover:underline">
-                          <a href="/"> Discover More</a>
+                           <a href="/"> Discover More</a>
                         </button>
                     </div>
                 </div>
@@ -723,4 +724,4 @@ function About() {
     )
 }
 
-export default About
+export default Class
