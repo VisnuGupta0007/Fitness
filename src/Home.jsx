@@ -293,7 +293,7 @@ function Home() {
                             "Basic fitness focuses on simple exercises and healthy habits to improve strength, flexibility, and overall well-being."
                         </p>
                         <button className="text-orange-600 font-semibold mt-2 hover:underline">
-                            Discover More
+                           <a href="/"> Discover More</a> 
                         </button>
                     </div>
                 </div>
@@ -311,7 +311,7 @@ function Home() {
                             "Advanced Muscle Course helps you build <span className='text-blue-500'>strength, size</span>, and <span className='text-blue-500'>definition</span> with expert techniques."
                         </p>
                         <button className="text-orange-600 font-semibold mt-2 hover:underline">
-                            Discover More
+                       <a href="/"> Discover More</a>
                         </button>
                     </div>
                 </div>
@@ -329,7 +329,7 @@ function Home() {
                             "New Gym Training guides beginners with effective workouts, proper form, and tips to build strength."
                         </p>
                         <button className="text-orange-600 font-semibold mt-2 hover:underline">
-                            Discover More
+                           <a href="/"> Discover More</a>
                         </button>
                     </div>
                 </div>
@@ -347,7 +347,7 @@ function Home() {
                             "Yoga Training improves flexibility, balance, and mental clarity through poses, breath control, and relaxation."
                         </p>
                         <button className="text-orange-600 font-semibold mt-2 hover:underline">
-                            Discover More
+                        <a href="/"> Discover More</a>
                         </button>
                     </div>
                 </div>
@@ -365,7 +365,7 @@ function Home() {
                             "Build strength and tone with beginner-friendly workouts and easy muscle-building tips."
                         </p>
                         <button className="text-orange-600 font-semibold mt-2 hover:underline">
-                            Discover More
+                           <a href="/"> Discover More</a>
                         </button>
                     </div>
                 </div>
@@ -383,7 +383,7 @@ function Home() {
                             "Gain muscle, boost strength, and sculpt your body with expert bodybuilding workouts."
                         </p>
                         <button className="text-orange-600 font-semibold mt-2 hover:underline">
-                            Discover More
+                          <a href="/"> Discover More</a>
                         </button>
                     </div>
                 </div>
